@@ -1,3 +1,9 @@
+This repository is for the course: L101 Machine Learning for Language Processing. 
+
+Project: An In-depth Analysis of the Readers in Open-domain Question Answering Pipeline Systems
+
+---
+
 This repository is largely based on SF-QA [original repo](https://github.com/soco-ai/SF-QA).
 
  SF-QA helps you to evaluate your open-domain QA without building the entire open-domain QA pipeline. It supports:
