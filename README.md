@@ -22,4 +22,4 @@ This repository is largely based on SF-QA [original repo](https://github.com/soc
 - FID [[paper](https://arxiv.org/pdf/2007.01282.pdf)] [[codes](https://github.com/facebookresearch/FiD)]
 
 Notes: 
-- I will (try to) release full version of codes after the release of the grade.
+- I will (try to) sort out the full version of codes after the release of the final grade.
